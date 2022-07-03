@@ -1,0 +1,1 @@
+. Because @Configuration objects are managed as Spring beans within the container,imported configurations may be injected — for example, via constructor injection: 
